@@ -4,4 +4,4 @@ A tourism website to explore the beauty of coastal paradise and discover pristin
 
 ## Deployed Link
 
-https://seabeachtravel.netlify.app/
+https://seabeachtravel.netlify.app
